@@ -2,7 +2,7 @@
   "name": "consulta",
   "version": "1.0.0",
   "description": "- Express - PostgreSQL - Sequelize ORM  - Autenticación con Tokens - Bcrypt para hashear contraseñas - Uso de Json Web Token",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "start": "node ./src/app.js",
     "dev": "nodemon ./src/app.js",
