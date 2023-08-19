@@ -15,7 +15,7 @@ const getAllCitizens = (req, res) => {
 
     //donde inicia 
     const offset = Number(req.query.offset) || 0
-  
+
     //capacidad maxima
     const limit =  Number(req.query.limit) || 50
   
