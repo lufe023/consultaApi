@@ -2,14 +2,14 @@
   "name": "consulta",
   "version": "1.0.0",
   "description": "- Express - PostgreSQL - Sequelize ORM  - Autenticación con Tokens - Bcrypt para hashear contraseñas - Uso de Json Web Token",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node ./src/app.js",
     "dev": "nodemon ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "lufe023@gmail.com",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
