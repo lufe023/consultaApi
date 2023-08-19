@@ -1,4 +1,4 @@
-# SKELETON
+# Consulta API
 
 - Express
 - PostgreSQL

@@ -2,6 +2,7 @@
 require('dotenv').config()
 
 const config = {
+    HOST: process.env.HOST || 'localhost', 
     port: process.env.PORT || 9000,
     nodeEnv: process.env.NODE_ENV || 'development', //? Desarrollo, Testing, Produccion
     jwtSecret: process.env.JWT_SECRET,
